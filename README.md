@@ -1,3 +1,4 @@
 ## SPOJ-solutions
 Solutions to some of the problems on SPOJ.com (\<problem-code>.cpp)
-Handle: noob333
+
+I intend to explain some of the solutions here: maraghuram.github.io
